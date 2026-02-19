@@ -1,0 +1,5 @@
+{
+  "name": "Flyer Chef AI",
+  "description": "Upload a supermarket flyer, set your budget, and get personalized recipe suggestions based on current deals using Gemini Agentic Vision.",
+  "requestFramePermissions": []
+}
